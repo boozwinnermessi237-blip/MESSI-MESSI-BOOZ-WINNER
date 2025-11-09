@@ -16,7 +16,11 @@ project/
      ├─ vector.cpp
      └── utils.h
 
+<<<<<<< HEAD
  Structures utilisées
+=======
+Structures utilisées
+>>>>>>> 8d47530 (Initial commit)
 Point2f
 
 Représente un point 2D avec ses coordonnées :
@@ -35,7 +39,11 @@ struct Vector2f {
     float y;
 };
 
+<<<<<<< HEAD
  Fonctionnalités implémentées
+=======
+Fonctionnalités implémentées
+>>>>>>> 8d47530 (Initial commit)
 Sur les vecteurs (vector.cpp)
 
 Création à partir de valeurs ou de deux points
@@ -74,7 +82,11 @@ ToString() pour convertir différents types en texte
 
 Print() pour affichage multi-arguments
 
+<<<<<<< HEAD
 Compilation
+=======
+ Compilation
+>>>>>>> 8d47530 (Initial commit)
 
 Depuis le dossier du projet :
 
@@ -99,4 +111,8 @@ Organiser un projet en fichiers d’en-tête (.h) et fichiers d’implémentatio
 
 Utiliser g++ pour compiler plusieurs fichiers
 
+<<<<<<< HEAD
 Améliorer la clarté, la modularité et la réutilisabilité du code
+=======
+Améliorer la clarté, la modularité et la réutilisabilité du code
+>>>>>>> 8d47530 (Initial commit)
